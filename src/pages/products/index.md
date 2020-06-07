@@ -1,49 +1,28 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Our Services
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great heating, cooling and refrigeration. No compromises.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Eastern Air is focused on helping customers in N.C. reach budget friendly solutions to their HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience needed to accomplish these goals.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        At Eastern Air we understand customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Heating. Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We also provide installation on most brands primarily American Standard. With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Cooling. We know how important it is to have a nice, cool home to come back to after being outside in a North Carolina summer. That's why we work around the clock just to make sure each and every one of our customers is satisfied being inside their own home
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that food makes people happy. That's why it is essential to make sure your refrigeration appliances are fully functional, 24/7.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Ka
 main:
   heading: Great coffee with no compromises
   description: >

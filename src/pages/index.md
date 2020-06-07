@@ -1,36 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Eastern Air, LLC.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great heating, cooling and refrigeration. No compromises.
+subheading: Heating | Cooling | Refrigeration
 mainpitch:
-  title: Why Kaldi
+  title: Why Eastern?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Eastern Air, LLC. is focused on helping customers in N.C. reach budget friendly solutions to their HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience needed to accomplish these goals.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  At Eastern Air we understand customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We also provide installation on most brands primarily American Standard. 
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a

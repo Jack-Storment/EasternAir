@@ -98,8 +98,8 @@ export const IndexPageTemplate = ({
                   <div style={{marginLeft: "30px"}}>
                     <h3>Apex Chamber of Commerce</h3>
                     <p>
-                      Taylored Audio a member of Apex Chamber of Commerce, an organization in Apex which supports strong, responsible business in Apex.
-                      Look for Taylored Audio within the member community of this organization.
+                      Eastern Air a member of Apex Chamber of Commerce, an organization in Apex which supports strong, responsible business in Apex.
+                      Look for Eastern Air within the member community of this organization.
                     </p>
                   </div>
                 </div>
@@ -123,7 +123,7 @@ export const IndexPageTemplate = ({
                   <div style={{marginLeft: "30px"}}>
                     <h3>Better Business Bureau</h3>
                     <p>
-                      Taylored Audio has been a member of the Better Business Bureau since 2018, having an "A" rating in the service provided to clients. Since the foundation of our company,
+                      Eastern Air has been a member of the Better Business Bureau since 2018, having an "A" rating in the service provided to clients. Since the foundation of our company,
                       we've had nothing but 5 star reviews to show for our service and absolutely no complaints.
                     </p>
                   </div>

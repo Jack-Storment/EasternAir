@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Taylored Audio',
+    title: 'Eastern Air',
     description:
-      'This website is the home page for Taylored Audio.',
+      'This website is the home page for Eastern Air',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

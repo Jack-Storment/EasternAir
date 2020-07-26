@@ -1,35 +1,33 @@
 ---
 templateKey: index-page
-title: Taylored Audio and Home Theater
+title: Eastern Air
 image: /img/home-jumbotron.jpg
-heading: Our Services
-subheading: 'A fully insured, veteran owned company providing custom home installations'
+heading: Heating | Cooling | Refrigeration
+subheading: 'A fully insured, locally owned company specializing in heating, cooling and refrigiration installations.'
 mainpitch:
-  title: Let us design a space that works for you and your family.
+  title: Why Eastern?
   description: >-
-    With over 10 years of experience in mounting and installing TV's and sound
-    systems, we come prepared with the knowledge and skill needed to complete
-    your project to your satisfaction every time - guaranteed!
+    Eastern Air, LLC. is focused on helping customers in N.C. reach budget friendly solutions to their HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience needed to accomplish these goals.
 description: >-
-  We provide custom installations for a variety of home theater and sound system
-  setups. Here's a few of the installations we have setup for our customers in
-  the past:
+  We provide custom heating, cooling and refrigeration for a variety of home
+  setups. Here's a few of the installations and services we offer setup for our customers in
+  the Triangle:
 intro:
   blurbs:
     - image: /img/tv.png
       text: >
-        We install custom flatscreen mounts and other TV setups for a great living room experience that brings the whole family together. We specialize in flat screen TV mounting.
+        At Eastern Air we understand customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
     - image: /img/soundbar.png
       text: >
-        We've years of experience setting up sound systems and soundbars for our
-        customers, whether it is a surround sound setup for a home theater or
-        whole home audio installation.
+        We have years of experience setting up heating, cooling and refrigeration systems and for our
+        customers, whether it is a residential or business setup we offer the best heating, cooling or
+        refrigeration systems for your home.
     - image: /img/alexa.png
       text: >-
-        We understand how to integrate smart home devices into your home, aswell as integrating custom wiring to help your home become more connected. We also offer many other smart home hardware such as Ring and Nest doorbell intallation.
+        We understand how important it is to have refrigeration, especially during the summer. With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
     - image: /img/projector.png
       text: >
-        We setup home theaters and dedicated media rooms and provide the best installation for commericial & residential custom audio & video solutions.
+        Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We provide installation on primarily American Standard.
   heading: What we offer
   description: >
     Taylored Audio is the ultimate spot for coffee lovers who want to learn

@@ -1,19 +1,22 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Us
 ---
-### Local
-Eastern Air is focused on helping customers in N.C. reach budget friendly solutions to their HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience needed to accomplish these goals.
+### How it Started
 
-### Reliable 
-Eastern Air is a North Carolina based compnay with three generations of talented workers. We get the job done and we get the job done right. Guaranteed.
+My passion for the world of audio began in high school, when I installed my first amp and subwoofer in my 1979 Mustang! That's me on the right, with my little brother in said Mustang looking as cool as possible.
 
-### Affordable
-At Eastern Air we understand customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
+From that point on I was hooked. I haven't owned a car since then that I didn't modify the sound system in one way or another, and I usually ended up installing gear in friend's and family's cars as well.​
 
-### Direct results
-We know how important it is to feel comfortable and at peace in your own home, that's why we work long hours to make sure the job is done well, fast.
+### History
 
-### Community oriented 
-We want to truly empower the communities that we help. Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We also provide installation on most brands primarily American Standard. With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
+Once I owned my own apartment, it was easy to make the transition from car audio to home audio and, once again, I became hooked in that world as well. There I am opening up my first pair of Polk Audio Home Theater speakers!
+
+### Innovation in the Industry
+
+One of my more recent interests has been home automation. With the advent of Alexa, Phillips Hue and SmartThings by Samsung, along with the Harmony remotes by Logitech, the possibilities are seemingly endless to what you can control using your voice.
+
+
+
+If you've been thinking of adding some Smart features to your home, I would love to help you navigate the sea of products that are on the market - from front door cameras to garage door openers to sensors that notify your phone when there is a water leak detected or a window or door has been opened.

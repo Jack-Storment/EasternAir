@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
+import facebook from '../img/facebook-icon.png'
+import instagram from '../img/instagram-icon.png'
+import tws from '../img/tws-icon.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = class extends React.Component {
@@ -11,7 +13,6 @@ const Navbar = class extends React.Component {
       navBarActiveClass: '',
     }
   }
-
   toggleHamburger = () => {
     // toggle the active boolean in the state
     this.setState(
@@ -31,7 +32,6 @@ const Navbar = class extends React.Component {
       }
     )
   }
-
   render() {
     return (
       <nav
@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="Taylored Audio" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -60,23 +60,43 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/appointments">
-                Book an appointment
+              <Link className="navbar-item" to="/about">
+                About
               </Link>
-              <Link className="navbar-item" to="/products">
-                Our Services
+              <Link className="navbar-item" to="appointments">
+                Appointments
+              </Link>
+              <Link className="navbar-item" to="/gallery">
+                Gallery
               </Link>
               <Link className="navbar-item" to="/testimonials">
                 Testimonials
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact us
-              </Link>
-              <Link className="navbar-item" to="/gallery">
-                Gallery
+                Contact
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+              <a
+                className="navbar-item"
+                href="https://www.facebook.com/tailoredaudio"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={facebook} alt="Triangle Web Solutions" />
+                </span>
+              </a>
+              <a
+                className="navbar-item"
+                href="https://www.instagram.com/tayloredaudio/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={instagram} alt="Triangle Web Solutions" />
+                </span>
+              </a>
               <a
                 className="navbar-item"
                 href="https://triangleweb.solutions"
@@ -84,7 +104,7 @@ const Navbar = class extends React.Component {
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={tws} alt="Triangle Web Solutions" />
                 </span>
               </a>
             </div>
@@ -94,5 +114,4 @@ const Navbar = class extends React.Component {
     )
   }
 }
-
 export default Navbar

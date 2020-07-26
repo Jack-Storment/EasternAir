@@ -12,11 +12,11 @@ export const AppointmentsPageTemplate = () => {
           <div className="column is-10 is-offset-1">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                Booking an Appointment with Eastern Air
+                Booking an Appointment with Taylored Audio
               </h2>
               <p>
-                If you're planning to book an appointment with Eastern Air please book an appointment for a consultation thorugh the 
-                Facebook page. The available schedule for Eastern Air is attatched in the calendar below:
+                If you're planning to book an appointment with Taylored Audio please book an appointment for a consultation thorugh the 
+                Facebook page. The available schedule for Taylored Audio are in the calendar below:
               </p>
               <a className="button" href="https://fb.com/book/tailoredaudio/" style={{marginTop: 20, marginBottom: 20}}>
                 Schedule an Appointment

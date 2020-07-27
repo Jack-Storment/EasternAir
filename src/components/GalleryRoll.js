@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 import Img from "gatsby-image"
+import home from '../img/home-jumbotron.gif'
 
 
 const NonStretchedImage = props => {
@@ -52,6 +53,16 @@ class TestimonialRoll extends React.Component {
                     </div>
                   </p>
                 </header>
+                <a
+                className="navbar-item"
+                href="https://www.americanstandardair.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={home} alt="Triangle Web Solutions" />
+                </span>
+              </a>
                 <p>
                   {post.frontmatter.description}
                 </p>

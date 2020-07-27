@@ -1,8 +1,8 @@
 ---
 templateKey: testimonials
-title: This was awesome
-quote: 'This is amazing, let''s do it again.'
+title: This was Great.
+quote: 'Great Service. Great Price.'
 date: 2019-09-02T23:03:55.440Z
-author: Svapnil Ankolkar
+author: Rob French
 authorpropic: /img/default-guy.png
 ---

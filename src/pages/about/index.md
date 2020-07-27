@@ -17,7 +17,7 @@ We provide service and maintenance for all brands of equipment in both residenti
 
 ### Innovation in the Industry
 
-One of our gold standards of HVAC has been American Standard. American Standard provides whole home comfort with heating and cooling, air quality, and smart home solutions. Up to 72 trillion allergens can find their way into your home every day and the average home generates 40 pounds of dust per year. This is why we only provide the best equipment.
+mechanical#34073 electrical#33032 and refrigeration#4742c One of our gold standards of HVAC has been our licensed American Standard products. We provide whole home comfort with heating and cooling, air quality, and smart home solutions. Up to 72 trillion allergens can find their way into your home every day and the average home generates 40 pounds of dust per year. This is why we only provide the best equipment.
 
 
 

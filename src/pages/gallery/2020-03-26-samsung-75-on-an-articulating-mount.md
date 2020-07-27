@@ -1,9 +1,9 @@
 ---
 templateKey: gallery
-title: Samsung 75" On An Articulating Mount
+title: Platinum 95 Gas furnace
 featuredimage: /img/screen-shot-2020-03-26-at-5.00.25-pm.png
 description: >-
-  Samsung 75" on articulating mount with 5.1 B&W speakers and marantz AV
+  Platinum 95 on articulating mount with up to 97.3% AFUE
   Receiver.
 location: 'Raleigh, NC'
 ---

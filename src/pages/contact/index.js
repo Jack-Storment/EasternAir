@@ -48,7 +48,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact Form</h1>
-              <p>Looking to contact Taylored Audio? Please let us know your contact information and a member of our team will 
+              <p>Looking to contact Eastern Air? Please let us know your contact information and a member of our team will 
                 get in touch with you as soon as possible.
               </p>
               <form

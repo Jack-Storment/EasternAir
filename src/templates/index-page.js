@@ -111,7 +111,7 @@ export const IndexPageTemplate = ({
                     <h3>CEDIA - Custom Electronic Design and Installation Association</h3>
                     <p>
                       CEDIA is the leading organization of professions in the home technology space, being a company membership that consists of 
-                      industry experts and change makers in the home technology space. This keeps Taylored Audio at the implementation stage of the bleeding edge in home theater tech, 
+                      industry experts and change makers in the home technology space. This keeps Eastern Air at the implementation stage of the bleeding edge in home theater tech, 
                       such as custom integrations with Alexa and other technologies. 
                     </p>
                   </div>

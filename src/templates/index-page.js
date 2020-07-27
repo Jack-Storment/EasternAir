@@ -108,11 +108,9 @@ export const IndexPageTemplate = ({
                     <img src={cediaLogo} style={{width: "80em"}}/>
                   </div>
                   <div style={{marginLeft: "30px"}}>
-                    <h3>CEDIA - Custom Electronic Design and Installation Association</h3>
+                    <h3>American Standard - Heating, cooling, refrigeration</h3>
                     <p>
-                      CEDIA is the leading organization of professions in the home technology space, being a company membership that consists of 
-                      industry experts and change makers in the home technology space. This keeps Eastern Air at the implementation stage of the bleeding edge in home theater tech, 
-                      such as custom integrations with Alexa and other technologies. 
+                      Experience the comfort of an American Standard heating and cooling system. Here at Eastern Air we carry the top of the line equipment.
                     </p>
                   </div>
                 </div>
@@ -123,7 +121,7 @@ export const IndexPageTemplate = ({
                   <div style={{marginLeft: "30px"}}>
                     <h3>Better Business Bureau</h3>
                     <p>
-                      Eastern Air has been a member of the Better Business Bureau since 2018, having an "A" rating in the service provided to clients. Since the foundation of our company,
+                      Eastern Air is a member of the Better Business Bureau, having an "A" rating in the service provided to clients. Since the foundation of our company,
                       we've had nothing but 5 star reviews to show for our service and absolutely no complaints.
                     </p>
                   </div>

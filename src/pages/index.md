@@ -7,7 +7,7 @@ subheading: 'A fully insured, locally owned company specializing in heating, coo
 mainpitch:
   title: Why Eastern?
   description: >-
-    Eastern Air, LLC. is focused on helping customers in N.C. reach budget friendly solutions to their HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience ![](giphy:yay_a_gif)
+    Eastern Air, LLC. is focused on helping customers in N.C. reach budget friendly solutions to their HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience for all your air conditioning needs!
 description: >-
   We provide custom heating, cooling and refrigeration for a variety of home
   setups. Here's a few of the installations and services we offer setup for our customers in

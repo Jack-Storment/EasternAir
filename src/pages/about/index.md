@@ -21,4 +21,4 @@ One of our gold standards of HVAC has been American Standard. American Standard 
 
 
 
-If you've been thinking of adding new heating, cooling, or refrigeration to your home, we would love to help you explore the best products we offer on the market. In addition to heating and cooling systems, products like air filters and humidifiers work non-stop to improve the overall quality of the airn to help you breathe in fresh air everyday.
+If you've been thinking of adding new heating, cooling, or refrigeration to your home, we would love to help you explore the best products we offer on the market. In addition to heating and cooling systems, products like air filters and humidifiers work non-stop to improve the overall quality of the air to help you breathe in fresh air everyday.

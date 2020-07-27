@@ -1,7 +1,7 @@
 ---
 templateKey: gallery
-title: 'Marantz Receiver, Xbox One S'
+title: 'American Standard, Accuform platinum'
 featuredimage: /img/xbox-system-cupboard.png
-description: 'Marantz Receiver, Xbox One S, Harmony Elite Remote'
+description: 'American Standard, Accuform Platinum 20'
 location: 'Raleigh, NC'
 ---

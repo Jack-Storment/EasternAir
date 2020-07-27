@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Eastern Air
-image: /img/home-jumbotron.gif
+image: /img/home-jumbotron.png
 heading: Heating | Cooling | Refrigeration
 subheading: 'A fully insured, locally owned company specializing in heating, cooling and refrigiration installations.'
 mainpitch:

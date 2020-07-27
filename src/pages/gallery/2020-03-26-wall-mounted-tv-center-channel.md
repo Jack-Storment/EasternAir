@@ -1,7 +1,7 @@
 ---
 templateKey: gallery
-title: Wall Mounted TV & Center Channel
+title: Forefront Platinum TAM9
 featuredimage: /img/wall-mounted-tv.png
-description: Wall mounted TV & Center Channel
+description: Heating and cooling
 location: 'Raleigh, NC'
 ---

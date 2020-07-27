@@ -36,6 +36,12 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-giphy`,
+            options: {
+                giphyApiKey: `<COu0cMVE4Xpky9BKPMFA32xokZiRiHIT>`,
+            },
+        },
+          {
             resolve: 'gatsby-remark-relative-images',
             options: {
               name: 'uploads',

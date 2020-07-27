@@ -38,7 +38,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-giphy`,
             options: {
-                giphyApiKey: `<COu0cMVE4Xpky9BKPMFA32xokZiRiHIT>`,
+                giphyApiKey: `<RayNIucPyPOZDE1FlbLgSOUYjTB6qPCS>`,
             },
         },
           {

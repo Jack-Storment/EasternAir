@@ -53,8 +53,8 @@ const TemplateWrapper = ({ children }) => {
       <div>{children}</div>
       <div>
         <MessengerCustomerChat
-                    pageId="1648993371852993"
-                    appId="650386135534204"
+                    pageId="109819697434099"
+                    appId="296268134785917"
         />
       </div>
       <Footer />

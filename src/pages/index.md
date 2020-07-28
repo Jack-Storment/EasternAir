@@ -27,7 +27,7 @@ intro:
         We understand how important it is to have refrigeration, especially during the summer. With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
     - image: /img/projector.png
       text: >
-        Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We provide installation on primarily American Standard.
+        Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We have a 91/100 score on BuildZoom.
   heading: What we offer
   description: >
     Eastern Air is the ultimate spot for coffee lovers who want to learn

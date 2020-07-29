@@ -127,7 +127,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <ReCAPTCHA
-                  sitekey="6LfnALcZAAAAABQOT3dw3lQhot415mkCsQJkSUFr"
+                  sitekey="6LcRybcZAAAAAGct7YViHvGySiVzT3fDKhF1te8A"
                   onChange={ () => {
                     this.setState({isValidated: true});
                   }}

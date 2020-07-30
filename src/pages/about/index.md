@@ -5,7 +5,7 @@ title: About Us
 ---
 ### How it Started
 
-Eastern Air is focused on helping customers in N.C. reach budget friendly solutions to their specific HVAC needs. Based out of Apex, NC with 25+ years in the HVAC/R industry and 3rd generation in the field we have the experience needed to accomplish your HVAC goals.
+Eastern Air is focused on helping customers in N.C. reach budget friendly solutions to their specific HVAC needs. Based out of Apex, NC with twenty-five plus years in the HVAC/R industry and third generation in the field we have the experience needed to accomplish your HVAC goals.
 
 We offer a variety of products to reduce contaminates in the air circulating inside your home. At Eastern Air we understand customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
 
@@ -17,7 +17,7 @@ We provide service and maintenance for all brands of equipment in both residenti
 
 ### Innovation in the Industry
 
-Our licnences include: mechanical#34073 electrical#33032 and refrigeration#4742c. One of our gold standards of HVAC has been our licensed American Standard products. We provide whole home comfort with heating and cooling, air quality, and smart home solutions. Up to 72 trillion allergens can find their way into your home every day and the average home generates 40 pounds of dust per year. This is why we only provide the best equipment.
+Our licnences include: mechanical(#34073) electrical(#33032) and refrigeration(#4742)c. One of our gold standards of HVAC has been our licensed American Standard products. We provide whole home comfort with heating and cooling, air quality, and smart home solutions. Up to 72 trillion allergens can find their way into your home every day and the average home generates 40 pounds of dust per year. This is why we only provide the best equipment.
 
 
 

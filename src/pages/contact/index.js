@@ -26,7 +26,7 @@ export default class Index extends React.Component {
     }
     e.preventDefault()
     const form = e.target
-    var url = new URL("https://g3b2wgdnl7.execute-api.us-east-1.amazonaws.com/generalContactUs"), 
+    var url = new URL(""), 
     params = this.state
     Object.keys(params).forEach(key => url.searchParams.append(key, params[key]))
     console.log(url);

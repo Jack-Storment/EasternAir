@@ -15,7 +15,7 @@ export const AppointmentsPageTemplate = () => {
                 Booking an Appointment with Eastern Air
               </h2>
               <p>
-                If you're planning to book an appointment with Eastern Air please book an appointment for a consultation thorugh the 
+                If you're planning to book an appointment with Eastern Air, LLC. please book an appointment for a consultation thorugh the 
                 Facebook page. The available schedule for Eastern Air are in the calendar below:
               </p>
               <a className="button" href="https://fb.com/book/Eastern-Air-109819697434099" style={{marginTop: 20, marginBottom: 20}}>

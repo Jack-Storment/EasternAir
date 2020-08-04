@@ -114,7 +114,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message describing service needed
+                    Message regarding services needed
                   </label>
                   <div className="control">
                     <textarea

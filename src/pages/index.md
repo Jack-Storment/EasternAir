@@ -3,7 +3,7 @@ templateKey: index-page
 title: Eastern Air, LLC.
 image: /img/home-jumbotron.jpg
 heading: Heating | Cooling | Refrigeration
-subheading: 'A fully insured, locally owned company in Apex specializing in heating, cooling and refrigeration installations.'
+subheading: 'A fully insured, locally owned company in Apex, NC specializing in heating, cooling and refrigeration installations.'
 mainpitch:
   title: Eastern Air, LLC.
   description: >-

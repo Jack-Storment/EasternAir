@@ -24,7 +24,7 @@ intro:
         refrigeration systems for your home.
     - image: /img/alexa.png
       text: >-
-        We understand how important it is to have the best air conditioning unit. With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
+        We understand how important it is to have the best HVAC. With today’s indoor air quality concerns we also offer several products for home or business to reduce contaminants in the air circulating inside.
     - image: /img/projector.png
       text: >
         Eastern Air provides service and maintenance for all brands of equipment in both residential and commercial applications. We have a 91/100 score on BuildZoom.

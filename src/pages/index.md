@@ -7,7 +7,7 @@ subheading: 'A fully insured and locally owned company in Apex, North Carolina s
 mainpitch:
   title: Eastern Air, LLC.
   description: >-
-    Eastern Air, LLC's mission is focused on helping customers in NC reach budget friendly solutions to their HVAC needs. We are cerified mechanical(#34073), electrical(#33032), and refrigeration(#4742c) professionals. Based out of Apex, NC with twenty-five plus years in the HVAC/R industry and third generation in the field we have the experience for all your air conditioning needs!
+    Eastern Air's mission is focused on helping customers in NC reach budget friendly solutions to their HVAC needs. We are cerified mechanical(#34073), electrical(#33032), and refrigeration(#4742c) professionals. Based out of Apex, NC with twenty-five plus years in the HVAC/R industry and third generation in the field we have the experience for all your air conditioning needs!
 description: >-
   We provide custom heating, cooling and refrigeration for a variety of home
   setups. Here's a few of the installations and services we offer setup for our customers in

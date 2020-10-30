@@ -5,7 +5,7 @@ title: About Us
 ---
 ### How it Started
 
-Eastern Air is focused on helping customers in Apex, NC and beyond reach budget friendly solutions to their specific HVAC needs. Based out of Apex, NC with twenty-five plus years in the HVAC/R industry and third generation in the field we have the experience needed to accomplish your HVAC goals.
+Eastern Air is focused on helping customers in Apex, North Carolina and beyond reach budget friendly solutions to their specific HVAC needs. Based out of Apex, NC with twenty-five plus years in the HVAC/R industry and third generation in the field we have the experience needed to accomplish your HVAC goals.
 
 We offer a variety of our products to reduce contaminates in the air circulating inside your home. Here at Eastern Air we understand customers needs and budgets differ and will work with you to find the best solutions to the opportunity at hand.
 

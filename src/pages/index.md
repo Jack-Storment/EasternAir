@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Heating | Cooling | Refrigeration
 subheading: 'A fully insured and locally owned company in Apex, North Carolina specializing in heating, cooling and refrigeration installations.'
 mainpitch:
-  title: Eastern Air, LLC.
+  title: Eastern Air
   description: >-
     Eastern Air's mission is focused on helping customers in NC reach budget friendly solutions to their HVAC needs. We are cerified mechanical(#34073), electrical(#33032), and refrigeration(#4742c) professionals. Based out of Apex, NC with twenty-five plus years in the HVAC/R industry and third generation in the field we have the experience for all your air conditioning needs!
 description: >-

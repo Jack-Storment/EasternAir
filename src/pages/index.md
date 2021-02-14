@@ -16,7 +16,7 @@ intro:
   blurbs:
     - image: /img/tv.png
       text: >
-        At Eastern Air we understand our customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
+        At Eastern Air, LLC. we understand our customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
     - image: /img/soundbar.png
       text: >
         We have years of experience setting up heating, cooling and refrigeration systems and for our

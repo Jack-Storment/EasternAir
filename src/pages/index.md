@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Eastern Air, LLC
+title: Eastern Air
 image: /img/home-jumbotron.jpg
 heading: Heating | Cooling | Refrigeration
 subheading: 'A fully insured and locally owned company in Apex, North Carolina specializing in heating, cooling and refrigeration installations.'
@@ -16,7 +16,7 @@ intro:
   blurbs:
     - image: /img/tv.png
       text: >
-        At Eastern Air, LLC. we understand our customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
+        At Eastern Air we understand our customers needs and budgets differ and will work with you to find the best solution to the opportunity at hand.
     - image: /img/soundbar.png
       text: >
         We have years of experience setting up heating, cooling and refrigeration systems and for our
